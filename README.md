@@ -14,4 +14,19 @@ One thing I've noticed is in OpenWRT specifically when using the mega-config it 
 
 The single servers are listed for reference, they are the same ones you can get from ProtonVPN download page. You probably want to grab their configs from them to verify the VPN servers are indeed ProtonVPN.
 
+These configs should work
+
 **Quick link to Mega Config for NewYork:** https://raw.githubusercontent.com/BlockChasers/ProtonVPN-Configs/main/P2P/New-York_United-States/UDP/NEW-YORK-USA-P2P-UDP.ovpn
+
+
+When I have time in the future I will separate the servers into free and paid mega-configs (paid mega-configs will include free servers too)
+
+These configurations are provided free of charge. You must be a ProtonVPN customer for now (until I sort the free/paid servers out)
+
+You may speed things up by buying me a coffee or two ;)
+
+BTC: bc1q859l5w74l276y96h30rv3sl7p3tvalrxsfa5h3
+ETH: 0x14Cc36Dd9078A0E1Bd8026f735580fe548BAb709
+LTC: LLtgfUUNh6LKKSuUbZJe2CFuVwjG8ES9zt
+DOGE: DS7an4H1FxPRPbN5LrUhQ7VzuGiHC5unaZ
+XMR: 43aRmqLF6kaGqwh3qGxMgpYaWBxAXxFAnZabCouZyRrR1gLyi29YCUxdCTtRJjiBKB2sBUkRjynUA9D2fRFL7tiE7iyftmY
