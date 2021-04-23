@@ -34,3 +34,5 @@ You may speed things up by buying me a coffee or two ;)
 **BNB/BEP-20:** bnb1h573j7yx4k45kz7u8psws3g4tacr34g8rwmvm8<br />
 **TRX/TRC-20:** TWHEVqjALbMG7RQxJLc4oWrNzqwviN8UX5<br />
 **XMR:** 43aRmqLF6kaGqwh3qGxMgpYaWBxAXxFAnZabCouZyRrR1gLyi29YCUxdCTtRJjiBKB2sBUkRjynUA9D2fRFL7tiE7iyftmY<br />
+
+
