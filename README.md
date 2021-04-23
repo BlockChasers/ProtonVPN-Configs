@@ -25,8 +25,8 @@ These configurations are provided free of charge. You must be a ProtonVPN custom
 
 You may speed things up by buying me a coffee or two ;)
 
-BTC: bc1q859l5w74l276y96h30rv3sl7p3tvalrxsfa5h3
-ETH: 0x14Cc36Dd9078A0E1Bd8026f735580fe548BAb709
-LTC: LLtgfUUNh6LKKSuUbZJe2CFuVwjG8ES9zt
-DOGE: DS7an4H1FxPRPbN5LrUhQ7VzuGiHC5unaZ
-XMR: 43aRmqLF6kaGqwh3qGxMgpYaWBxAXxFAnZabCouZyRrR1gLyi29YCUxdCTtRJjiBKB2sBUkRjynUA9D2fRFL7tiE7iyftmY
+BTC: bc1q859l5w74l276y96h30rv3sl7p3tvalrxsfa5h3<br />
+ETH: 0x14Cc36Dd9078A0E1Bd8026f735580fe548BAb709<br />
+LTC: LLtgfUUNh6LKKSuUbZJe2CFuVwjG8ES9zt<br />
+DOGE: DS7an4H1FxPRPbN5LrUhQ7VzuGiHC5unaZ<br />
+XMR: 43aRmqLF6kaGqwh3qGxMgpYaWBxAXxFAnZabCouZyRrR1gLyi29YCUxdCTtRJjiBKB2sBUkRjynUA9D2fRFL7tiE7iyftmY<br />
