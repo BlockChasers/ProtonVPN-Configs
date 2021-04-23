@@ -25,6 +25,8 @@ These configurations are provided free of charge. You must be a ProtonVPN custom
 
 You may speed things up by buying me a coffee or two ;)
 
+**Plz buy me coffee?**
+
 **BTC:** bc1q859l5w74l276y96h30rv3sl7p3tvalrxsfa5h3<br />
 **LTC:** LLtgfUUNh6LKKSuUbZJe2CFuVwjG8ES9zt<br />
 **DOGE:** DS7an4H1FxPRPbN5LrUhQ7VzuGiHC5unaZ<br />
