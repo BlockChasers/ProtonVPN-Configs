@@ -36,3 +36,5 @@ You may speed things up by buying me a coffee or two ;)
 **XMR:** 43aRmqLF6kaGqwh3qGxMgpYaWBxAXxFAnZabCouZyRrR1gLyi29YCUxdCTtRJjiBKB2sBUkRjynUA9D2fRFL7tiE7iyftmY<br />
 
 ### ~ BlockChasers.ca
+
+EOF
