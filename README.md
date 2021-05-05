@@ -1,6 +1,6 @@
 # ProtonVPN-Configs
 
-**I've pre-compiled all ProtonVPN P2P servers in Canada & NewYork into mega-config files.** As I prefer Canada and New York servers, they are the only ones here for now. This list currently has both PAID and UNPAID servers. If you do not have a paid account you will not be able to connect and it may cause you connection issues.
+**I've pre-compiled all ProtonVPN P2P servers in Canada & NewYork into mega-config files.** These are Canada and New York servers, they are the only ones here for now. This list currently has both PAID and UNPAID servers. If you do not have a paid account you will not be able to connect and it may cause you connection issues.
 
 I selected all P2P servers.
 
