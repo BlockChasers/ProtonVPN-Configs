@@ -31,6 +31,6 @@ You may speed things up by buying me a coffee or two ;)
 **TRX/TRC-20:** TWHEVqjALbMG7RQxJLc4oWrNzqwviN8UX5<br />
 **XMR:** 43aRmqLF6kaGqwh3qGxMgpYaWBxAXxFAnZabCouZyRrR1gLyi29YCUxdCTtRJjiBKB2sBUkRjynUA9D2fRFL7tiE7iyftmY<br />
 
-### ~ BlockChasers.ca
+#### ~ BlockChasers.ca
 
 EOF
