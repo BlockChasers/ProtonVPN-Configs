@@ -2,7 +2,7 @@
 
 **I've pre-compiled all ProtonVPN P2P servers in Canada & NewYork into mega-config files.** As I prefer Canada and New York servers, they are the only ones here for now. This list currently has both PAID and UNPAID servers. If you do not have a paid account you will not be able to connect and it may cause you connection issues.
 
-I've selected all the un-loaded servers at the time I was compiling the mega-config. These loads may have changed. I also selected all P2P servers, as I myself would like to use P2P at some point with the VPN.
+I selected all P2P servers.
 
 One thing I've noticed is in OpenWRT specifically when using the mega-config it refuses to start the TUN interface until I cut out half or more of the "remote" lines. I also notice the TCP connections don't work for some reason.
 
